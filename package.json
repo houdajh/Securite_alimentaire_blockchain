@@ -1,0 +1,33 @@
+{
+  "name": "supply-chain-dapp",
+  "version": "1.0.0",
+  "description": "A Blockchain Supply Chain Management System",
+  "author": "Abdelhakim Mhioul <hk.mhl1975@gmail.com>",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-native-firebase/firestore": "^14.11.0",
+    "@truffle/contract": "^4.5.12",
+    "dotenv": "^16.0.1",
+    "firebase": "^9.8.2",
+    "next": "12.1.6",
+    "next-pwa": "^5.5.2",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
