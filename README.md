@@ -13,7 +13,10 @@ We have also designed a mobile application that will provide an interface to vie
  
 ## :movie_camera: Animation 
 https://user-images.githubusercontent.com/74733847/172710802-7049756a-9a43-4c55-9a61-dde963fb8d5a.mp4
- 
+
+https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-8554-841aa360dc5c.mp4
+
+
 **Frontend via** :
 <p align="left"> 
 <a href="https://solidity-fr.readthedocs.io/fr/latest/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NuxEEZYZncZwZhyMmfeHo1oxfuke-HY8UQ&usqp=CAU"/> </a> 
