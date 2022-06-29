@@ -19,9 +19,9 @@ https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-
 
 **Frontend via** :
 <p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://https://img.shields.io/badge/React%20js-FFD43B?style=for-the-badge&logo=react&logoColor=darkgreen"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://https://img.shields.io/badge/Next%20js-1572B6?style=for-the-badge&logo=Next3&logoColor=white"/> </a> 
- <a href="https://getbootstrap.com" > <img src="https://https://img.shields.io/badge/JavaScript-563D7C?style=for-the-badge&logo=JavaScript&logoColor=white%22"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/React%20js-FFD43B?style=for-the-badge&logo=react&logoColor=darkgreen"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Next%20js-1572B6?style=for-the-badge&logo=Next3&logoColor=white"/> </a> 
+ <a href="https://getbootstrap.com" > <img src="https://img.shields.io/badge/JavaScript-563D7C?style=for-the-badge&logo=JavaScript&logoColor=white%22"/> </a> 
  <a href="" > <img src="https://img.shields.io/badge/Tailwind%20CSS-11122C?style=for-the-badge&logo=TailwindCss&logoColor=white%22"/> </a>
 <a href="https://solidity-fr.readthedocs.io/fr/latest/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NuxEEZYZncZwZhyMmfeHo1oxfuke-HY8UQ&usqp=CAU"/> </a> 
 
