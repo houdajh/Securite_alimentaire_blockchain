@@ -25,8 +25,6 @@ https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-
  <a href="" > <img src="https://img.shields.io/badge/Tailwind%20CSS-11122C?style=for-the-badge&logo=TailwindCss&logoColor=white%22"/> </a>
 
 
-<a href="" > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/> </a>
  <a href="https://getbootstrap.com" > <img src="https://img.shields.io/badge/JavaScript-563D7C?style=for-the-badge&logo=JavaScript&logoColor=white%22"/> </a>
 </p>
 
