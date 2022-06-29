@@ -1,4 +1,4 @@
-# Supply Chain Dapp
+# FOOD SAFETY
 
 ## Description of the project
 
