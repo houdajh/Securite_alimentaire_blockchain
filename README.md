@@ -18,13 +18,12 @@ https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-
 
 
 **Frontend via** :
+
+
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/React%20js-FFD43B?style=for-the-badge&logo=react&logoColor=darkgreen"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Next%20js-1572B6?style=for-the-badge&logo=Next3&logoColor=white"/> </a> 
- 
  <a href="" > <img src="https://img.shields.io/badge/Tailwind%20CSS-11122C?style=for-the-badge&logo=TailwindCss&logoColor=white%22"/> </a>
-
-
  <a href="https://getbootstrap.com" > <img src="https://img.shields.io/badge/JavaScript-563D7C?style=for-the-badge&logo=JavaScript&logoColor=white%22"/> </a>
 </p>
 
@@ -34,6 +33,8 @@ https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Truffle-07405E?style=for-the-badge&logo=truffle&logoColor=white"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ganache-FC6666?style=for-the-badge&logo=Ganache&logoColor=white"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Web3.js-A3589?style=for-the-badge&logo=Web3.js&logoColor=white"/> </a>
+
+
 **Free Support:**
 
 If you liked our work and you want to support us, follow us on github,and rate it :star::star::star::star::star: .
