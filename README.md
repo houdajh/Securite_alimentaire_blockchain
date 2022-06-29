@@ -23,7 +23,6 @@ https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Next%20js-1572B6?style=for-the-badge&logo=Next3&logoColor=white"/> </a> 
  
  <a href="" > <img src="https://img.shields.io/badge/Tailwind%20CSS-11122C?style=for-the-badge&logo=TailwindCss&logoColor=white%22"/> </a>
-<a href="https://solidity-fr.readthedocs.io/fr/latest/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NuxEEZYZncZwZhyMmfeHo1oxfuke-HY8UQ&usqp=CAU"/> </a> 
 
 
 <a href="" > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
@@ -34,9 +33,9 @@ https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-
 **Backend via** :
 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Solidity-11122C?style=for-the-badge&logo=solidity&logoColor=white%22"/> </a> 
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Truffle-FF6384?style=for-the-badge&logo=truffle&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
-
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Truffle-07405E?style=for-the-badge&logo=truffle&logoColor=white"/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Ganache-FC6666?style=for-the-badge&logo=Ganache&logoColor=white"/> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Web3.js-A3589?style=for-the-badge&logo=Web3.js&logoColor=white"/> </a>
 **Free Support:**
 
 If you liked our work and you want to support us, follow us on github,and rate it :star::star::star::star::star: .
