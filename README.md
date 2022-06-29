@@ -21,18 +21,18 @@ https://user-images.githubusercontent.com/74733847/172713221-8295fc4e-0085-4312-
 
 
 <p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/React%20js-FFD43B?style=for-the-badge&logo=react&logoColor=darkgreen"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Next%20js-1572B6?style=for-the-badge&logo=Next.js&logoColor=white"/> </a> 
- <a href="" > <img src="https://img.shields.io/badge/Tailwind%20CSS-11122C?style=for-the-badge&logo=TailwindCss&logoColor=white%22"/> </a>
- <a href="https://getbootstrap.com" > <img src="https://img.shields.io/badge/JavaScript-563D7C?style=for-the-badge&logo=JavaScript&logoColor=white%22"/> </a>
+<a href="https://fr.reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React%20js-FFD43B?style=for-the-badge&logo=react&logoColor=darkgreen"/> </a>
+ <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next%20js-1572B6?style=for-the-badge&logo=Next.js&logoColor=white"/> </a> 
+ <a href="https://tailwindcss.com/" > <img src="https://img.shields.io/badge/Tailwind%20CSS-11122C?style=for-the-badge&logo=TailwindCss&logoColor=white%22"/> </a>
+ <a href="https://www.javascript.com/" > <img src="https://img.shields.io/badge/JavaScript-563D7C?style=for-the-badge&logo=JavaScript&logoColor=white%22"/> </a>
 </p>
 
 **Backend via** :
 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Solidity-11122C?style=for-the-badge&logo=solidity&logoColor=white%22"/> </a> 
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Truffle-07405E?style=for-the-badge&logo=truffle&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Ganache-FC6666?style=for-the-badge&logo=Ganache&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Web3.js-A3589?style=for-the-badge&logo=Web3.js&logoColor=white"/> </a>
+<a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank"> <img src="https://img.shields.io/badge/Solidity-11122C?style=for-the-badge&logo=solidity&logoColor=white%22"/> </a> 
+<a href="https://trufflesuite.com/" target="_blank"> <img src="https://img.shields.io/badge/Truffle-07405E?style=for-the-badge&logo=truffle&logoColor=white"/> </a>
+<a href="https://trufflesuite.com/ganache/" target="_blank"> <img src="https://img.shields.io/badge/Ganache-FC6666?style=for-the-badge&logo=Ganache&logoColor=white"/> </a>
+<a href="https://web3js.readthedocs.io/en/v1.7.4/" target="_blank"> <img src="https://img.shields.io/badge/Web3.js-A3589?style=for-the-badge&logo=Web3.js&logoColor=white"/> </a>
 
 
 **Free Support:**
